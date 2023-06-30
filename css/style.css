@@ -22,16 +22,16 @@ header {
   height: 400px;
 }
 .corso {
-  margin-top: 40px;
-  margin-bottom: 20px;
-  margin-inline: 50px;
-  font-size: 2em;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  padding-inline: 50px;
+  font-size: 2.5em;
 }
 .corso2 {
-  margin-bottom: 30px;
-  margin-inline: 50px;
+  padding-bottom: 30px;
+  padding-inline: 50px;
   font-size: 1.5em;
-  line-height: 1.2;
+  line-height: 1.5;
 }
 .bottone {
   background-color: #f04c2f;
@@ -49,12 +49,69 @@ header {
 .titoli {
   color: #25a2c3;
 }
+.titolip1 {
+  font-size: 1.7em;
+  padding-top: 50px;
+  margin-bottom: 20px;
+}
+.par {
+  font-size: 1.5em;
+  line-height: 1.5;
+}
+.img1 {
+  width: 350px;
+  border-radius: 200px;
+}
 .garanzie {
+  margin-top: 70px;
   background-color: rgb(243, 17, 9);
   color: white;
+  height: 300px;
+  margin-bottom: 40px;
+}
+.titoli2 {
+  font-size: 2em;
+}
+.eg {
+  padding-top: 60px;
+  padding-bottom: 30px;
+}
+.mesi {
+  padding-inline: 20px;
+  padding-bottom: 30px;
+}
+.CEO {
+  margin-top: 15px;
+  font-size: 0.7em;
+}
+.divimg {
+  margin-top: 40px;
+  margin-inline: auto;
+  width: 400px;
+  height: 450px;
+  box-shadow: 1px 1px 10px;
+}
+.img2 {
+  width: 400px;
 }
 /* Footer */
 footer {
+  margin-top: 70px;
+  height: 300px;
   background-color: #25a2c3;
   color: white;
+}
+.link {
+  color: white;
+}
+.Contattaci {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+.pfooter {
+  margin-bottom: 10px;
+}
+.immagini {
+  font-size: 0.7em;
+  margin-top: 50px;
 }
