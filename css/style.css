@@ -1,0 +1,60 @@
+/* Your styles here */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+.mobile {
+  width: 450px;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2 em;
+}
+.logo {
+  background-color: black;
+  height: 100px;
+}
+.logoimg {
+  width: 150px;
+}
+header {
+  background-image: url(images/banner.jpg);
+  height: 400px;
+}
+.corso {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-inline: 50px;
+  font-size: 2em;
+}
+.corso2 {
+  margin-bottom: 30px;
+  margin-inline: 50px;
+  font-size: 1.5em;
+  line-height: 1.2;
+}
+.bottone {
+  background-color: #f04c2f;
+  color: white;
+  width: 200px;
+  height: 50px;
+  font-size: 1.25em;
+  border: solid 2px #f04c2f;
+  border-radius: 4px;
+}
+.titoli,
+.titoli2 {
+  font-family: "Montserrat", sans-serif;
+}
+.titoli {
+  color: #25a2c3;
+}
+.garanzie {
+  background-color: rgb(243, 17, 9);
+  color: white;
+}
+/* Footer */
+footer {
+  background-color: #25a2c3;
+  color: white;
+}
