@@ -7,6 +7,10 @@
   font-family: "Open Sans", sans-serif;
   font-size: 1.2 em;
 }
+.titoli,
+.titoli2 {
+  font-family: "Montserrat", sans-serif;
+}
 .logo {
   background-color: black;
   height: 60px;
@@ -60,15 +64,19 @@ header {
   display: inline-block;
 }
 .float {
-  padding-bottom: 200px;
+  display: inline-block;
+  width: 500px;
 }
 .par {
   font-size: 1em;
   line-height: 1.5;
+  padding-bottom: 15px;
 }
 
 .titolip1 {
   font-size: 1em;
+  padding-bottom: 10px;
+  font-size: 1.2em;
 }
 .garanzie {
   margin-top: 70px;
